@@ -52,7 +52,7 @@ function App() {
           <Row>
             <Col md={12}>
               <div className="footer align-left ps-2">
-                <h3>Thank you for joining us</h3>
+                <h3>It was nice to work with you all</h3>
               </div>
             </Col>
           </Row>
