@@ -1,0 +1,9 @@
+.random img{
+  max-width: 500px;
+  max-height: 500px;
+  margin: auto;
+}
+.linkss{
+  text-decoration: none;
+  color: #000;
+}
